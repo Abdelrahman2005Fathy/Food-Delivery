@@ -1,7 +1,7 @@
-🍔 #Food Delivery App
+🍔 Food Delivery App
 🔗 Live Demo: https://fooddelivery20.netlify.app/
 
-📌 #Overview
+📌 Overview
 A modern food delivery web application built with React.js and Vite, featuring a responsive UI, dynamic food menu, cart functionality, and user authentication.
 
 Food Delivery App Screenshot (Replace with an actual screenshot if needed)
